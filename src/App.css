@@ -1,0 +1,16 @@
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.h-100 {
+  height: 100vh;
+}
+
+.w-15 {
+  width: 15vw;
+}
+
+.w-85 {
+  width: 85vw;
+}
